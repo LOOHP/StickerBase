@@ -1,2 +1,2 @@
 # StickerBase
-Stickers for Happy Minecraft Group!
+Stickers for my discord bot AppLEshakE#4710
